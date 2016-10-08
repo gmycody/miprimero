@@ -7,7 +7,7 @@
 
 void setup() {                
   // initialize the digital pin as an output:
-  pinMode(13, OUTPUT);     
+  pinMode(14, OUTPUT);     
 }
 
 void loop() {
